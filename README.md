@@ -29,8 +29,6 @@ fraude_transacciones_paysim/
 ├── scripts/
 │   ├── 01_cargar_sqlite.py       Carga el CSV a SQLite (único paso en Python)
 │   └── 02_exportar_powerbi.py    Ejecuta las queries de exportación y genera los CSV
-├── powerbi/
-│   └── guia_construccion_dashboard.md   Guía paso a paso para armar el .pbix
 └── docs/
     └── hallazgos_resumen.md      Resumen ejecutivo de hallazgos
 ```
